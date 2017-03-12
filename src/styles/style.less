@@ -1,0 +1,88 @@
+//盒子模型container
+li{
+	list-style: none;
+}
+ul{
+	padding-left: 0;
+}
+.container{
+	margin: 0 auto;
+	max-width: 640px;
+	min-width: 320px;
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+
+.banner{
+	.swiper-slide{
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+}
+
+.box{
+	@jianju:15px;
+	padding:0 @jianju;
+	.box_tl{
+		border-bottom: 2px solid #FF0080;
+
+		h1{
+			font-size: 14px;
+			color: #FF0080;
+			border-left: 3px solid #FF0080;
+			padding-left: @jianju/2;
+		}
+	}
+	ul{
+
+		padding-top: @jianju;
+		margin: 0 -@jianju/2;
+		li{
+			@imght:160px;
+			width: 50%;
+			height: 50px;
+			float: left;
+			height: @imght;
+			overflow: hidden;
+			margin-bottom: @jianju;
+			box-sizing: border-box;
+			padding: 0 @jianju/2;
+
+			span{
+				width: 100%;
+				display: block;
+				position: relative;
+
+				img{
+					width: 100%;
+					height: @imght;
+				}
+			}
+
+			//信息层
+			.infos{
+				position: absolute;
+				bottom: 0;
+				width: 100%;
+				height: 40px;
+				background-color: rgba(0,0,0,.5);
+
+				h3{
+					font-size: 12px;
+					padding-left: @jianju;
+					color: #fff;
+
+					em{
+						float: right;
+						padding-right: @jianju;
+
+						&:before{
+							content: "￥"
+						}
+					}
+				}
+			}
+		}
+	}
+}

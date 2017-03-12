@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+li	F:\phpStudy\WWW\wheat\src\styles\style.less	/^li{$/;"	function	line:2
+ul	F:\phpStudy\WWW\wheat\src\styles\style.less	/^ul{$/;"	function	line:5
+.container	F:\phpStudy\WWW\wheat\src\styles\style.less	/^.container{$/;"	function	line:8
+.banner	F:\phpStudy\WWW\wheat\src\styles\style.less	/^.banner{$/;"	function	line:17
+.swiper-slide	F:\phpStudy\WWW\wheat\src\styles\style.less	/^	.swiper-slide{$/;"	function	line:18
+.box	F:\phpStudy\WWW\wheat\src\styles\style.less	/^.box{$/;"	function	line:24
+jianju	F:\phpStudy\WWW\wheat\src\styles\style.less	/^	@jianju:15px;$/;"	function	line:25
+.box_tl	F:\phpStudy\WWW\wheat\src\styles\style.less	/^	.box_tl{$/;"	function	line:27
+h1	F:\phpStudy\WWW\wheat\src\styles\style.less	/^		h1{$/;"	function	line:30
+ul	F:\phpStudy\WWW\wheat\src\styles\style.less	/^	ul{$/;"	function	line:37
+li	F:\phpStudy\WWW\wheat\src\styles\style.less	/^		li{$/;"	function	line:41
+imght	F:\phpStudy\WWW\wheat\src\styles\style.less	/^			@imght:160px;$/;"	function	line:42
+span	F:\phpStudy\WWW\wheat\src\styles\style.less	/^			span{$/;"	function	line:52
+img	F:\phpStudy\WWW\wheat\src\styles\style.less	/^				img{$/;"	function	line:57
+.infos	F:\phpStudy\WWW\wheat\src\styles\style.less	/^			.infos{$/;"	function	line:64
+h3	F:\phpStudy\WWW\wheat\src\styles\style.less	/^				h3{$/;"	function	line:71
+em	F:\phpStudy\WWW\wheat\src\styles\style.less	/^					em{$/;"	function	line:76
+&:before	F:\phpStudy\WWW\wheat\src\styles\style.less	/^						&:before{$/;"	function	line:80
